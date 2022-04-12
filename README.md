@@ -4,7 +4,7 @@ Welcome to my Github page! Let me introduce myself - I’m Ola, Aleksandra to be
 ### Programming languages 🖥️
 My main programming languages are Java and C++, but I also know C# quite well.
 I have also some experience with C and ASM but I can't say I enjoy working with them.
-I’m currently learning how to create Unity games.
+I’m currently learning how to create Unity games and web pages with HTML, Bootsrap, React and CSS.
 
 ### My interests 💬
 My favorite activity is solving logic puzzles and problems.
